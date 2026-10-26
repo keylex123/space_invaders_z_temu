@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile <nazov_suboru>.py 
